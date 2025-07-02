@@ -1,0 +1,57 @@
+    1  cd This PC
+    2  cd C
+    3  git init
+    4  git status
+    5  git add .
+    6  git status
+    7    git commit -m "Project added"
+    8  git remote origin add https://github.com/Navan388/BMI-Calculator.git
+    9  git push origin master
+   10  git status
+   11  git add .
+   12  git status
+   13  git commit -m "New file added"
+   14  git push origin master
+   15  cd C:\
+   16  git init
+   17  git add.
+   18  git init
+   19  git remote add origin https://github.com/Navan388/mongo.git
+   20  git remote -v
+   21  git remote add mongo https://github.com/Navan388/mongo.git
+   22  git push -u mongo master
+   23  git push -u mongo main
+   24  git remote -v
+   25  git init
+   26  ls -la
+   27  git add .
+   28  git commit -m "Initial commit with folder contents"
+   29  git remote -v
+   30  git push -u mongo main
+   31  git branch
+   32  git push -u mongo main
+   33  git push -u mongo main --force
+   34  cd c:/
+   35  npx create-react-app task-manager
+   36  cd task-manager
+   37  npm start
+   38  nvm install 20
+   39  node -v
+   40  nvm use 20
+   41  npx create-react-app water-client
+   42  cd water-client
+   43  npm install -D tailwindcss postcss autoprefixer
+   44  npx tailwindcss init -p
+   45  npm start
+   46  npm install -D @tailwindcss/postcss
+   47  npm start
+   48  npm uninstall tailwindcss @tailwindcss/postcss
+   49  npm install -D tailwindcss@3.4.3 postcss autoprefixer
+   50  npm start
+   51  npm start
+   52  npm start
+   53  npm start
+   54  npm install react-router-dom axios
+   55  npm start
+   56  npm start
+   57  history > my_history.txt
