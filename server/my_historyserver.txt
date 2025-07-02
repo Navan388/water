@@ -1,0 +1,52 @@
+    1  cd This PC
+    2  cd C
+    3  git init
+    4  git status
+    5  git add .
+    6  git status
+    7    git commit -m "Project added"
+    8  git remote origin add https://github.com/Navan388/BMI-Calculator.git
+    9  git push origin master
+   10  git status
+   11  git add .
+   12  git status
+   13  git commit -m "New file added"
+   14  git push origin master
+   15  cd C:\
+   16  git init
+   17  git add.
+   18  git init
+   19  git remote add origin https://github.com/Navan388/mongo.git
+   20  git remote -v
+   21  git remote add mongo https://github.com/Navan388/mongo.git
+   22  git push -u mongo master
+   23  git push -u mongo main
+   24  git remote -v
+   25  git init
+   26  ls -la
+   27  git add .
+   28  git commit -m "Initial commit with folder contents"
+   29  git remote -v
+   30  git push -u mongo main
+   31  git branch
+   32  git push -u mongo main
+   33  git push -u mongo main --force
+   34  cd c:/
+   35  npx create-react-app task-manager
+   36  cd task-manager
+   37  npm start
+   38  nvm install 20
+   39  node -v
+   40  nvm use 20
+   41  cd backend
+   42  cd client
+   43  cd server
+   44  npm install
+   45  npm run dev
+   46  npm run dev
+   47  npm run dev
+   48  npm run dev
+   49  npm run dev
+   50  npm run dev
+   51  npm run dev
+   52   history > my_historyserver.txt
